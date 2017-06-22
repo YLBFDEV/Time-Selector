@@ -1,9 +1,9 @@
 # Time-Selector 
-[ ![最新版本](https://api.bintray.com/packages/liuli/maven/Time-Selector/images/download.svg) ](https://bintray.com/liuli/maven/Time-Selector/_latestVersion)  [![License](https://img.shields.io/badge/license-Apache%202.0-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+[ ![最新版本](https://api.bintray.com/packages/liuli/maven/Time-Selector/images/download.svg) ](https://bintray.com/liuli/maven/Time-Selector/_latestVersion) [![GitHub tag](https://img.shields.io/github/tag/YLBFDEV/Time-Selector.svg)](https://github.com/YLBFDEV/Time-Selector/releases/tag/1.1.1)[![GitHub commits](https://img.shields.io/github/commits-since/YLBFDEV/Time-Selector/1.1.1.svg)](https://github.com/YLBFDEV/Time-Selector/compare/1.1.1...YLBFDEV:master)[![License](https://img.shields.io/badge/license-Apache%202.0-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
 
 
-####控件基于[jingchenUSTC/TimePicker](https://github.com/jingchenUSTC/TimePicker "感谢jingchenUSTC" )
+##控件基于[jingchenUSTC/TimePicker](https://github.com/jingchenUSTC/TimePicker)
 
 
 
