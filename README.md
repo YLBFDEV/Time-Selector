@@ -1,11 +1,14 @@
-# Time-Selector
-[ ![Download](https://api.bintray.com/packages/liuli/maven/Time-Selector/images/download.svg) ](https://bintray.com/liuli/maven/Time-Selector/_latestVersion) 
+# Time-Selector 
+[ ![最新版本](https://api.bintray.com/packages/liuli/maven/Time-Selector/images/download.svg) ](https://bintray.com/liuli/maven/Time-Selector/_latestVersion)  [![License](https://img.shields.io/badge/license-Apache%202.0-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+
+
+
 ####控件基于[jingchenUSTC/TimePicker](https://github.com/jingchenUSTC/TimePicker "感谢jingchenUSTC" )
 
----
 
 
-![Loading](http://7xosuk.com1.z0.glb.clouddn.com/aaa.gif)
+
+![预览图](https://raw.githubusercontent.com/YLBFDEV/Time-Selector/master/art/kinephoto.gif)
 
 
 
@@ -13,7 +16,18 @@
 使用：
 >Android Studio中直接在 gradle中加入：
 ```javascript
-compile 'com.feezu.liuli:timeselector:1.1.3+' 
+    compile 'com.feezu.liuli:timeselector:latest.release' 
+```
+项目中依赖了
+```script
+    compile 'com.android.support:appcompat-v7:25.3.1'
+```
+
+如果遇到冲突请去除
+```script
+    compile ('com.feezu.liuli:timeselector:latest.release'){  
+        exclude module: 'appcompat-v7'  
+    } 
 ```
 >Eclipse下请下载源码（建议尽早迁移至Studio）
 
